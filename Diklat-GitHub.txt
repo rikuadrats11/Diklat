@@ -1,0 +1,6 @@
+Diklat GitHub
+- Membuat akun
+- Membuat repository
+- Membuat branch
+- Membuat merge
+- Membuat fork
