@@ -1,2 +1,10 @@
-Git      :
-GitHub   :
+Version Control System / Revision Control System / source code management -> sistem yang mengelola perubahan dari sebuah dokumen, program komputer, website, dan kumpulan informasi lain.
+Version control system : menyimpan histori source code, memungkinkan kolaborasi dengan lebih baik, mengetahui yang membuat perubahan, dan memungkinkan kembali ke keadaan sebelum perubahan (checkout)
+
+Git      : mengelola file di dalam folder (repository/repo)
+Commit   : menyimpan riwayat (histori) perubahan file
+Setiap commit memiliki hash (penanda unik pada commit)
+Branch (cabang commit) -> digabungkan (merge)
+
+GitHub   : layanan cloud untuk menyimpan dan mengelola project/repo git
+Layanan selain GitHub -> Bitbucket, GitLab
