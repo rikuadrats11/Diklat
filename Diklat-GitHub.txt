@@ -1,5 +1,4 @@
 Diklat GitHub
-- Membuat repository
 - Membuat branch
 - Membuat merge
 - Membuat fork
