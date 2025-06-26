@@ -1,3 +1,5 @@
+Resume materi Git dan GitHub
+
 Version Control System / Revision Control System / source code management -> sistem yang mengelola perubahan dari sebuah dokumen, program komputer, website, dan kumpulan informasi lain.
 Version control system : menyimpan histori source code, memungkinkan kolaborasi dengan lebih baik, mengetahui yang membuat perubahan, dan memungkinkan kembali ke keadaan sebelum perubahan (checkout)
 
